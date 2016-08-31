@@ -13,5 +13,9 @@ namespace TestSolution
             int x = 5;
             int y = 6;
         }
+        public String getWord(String s)
+        {
+            return s;
+        }
     }
 }

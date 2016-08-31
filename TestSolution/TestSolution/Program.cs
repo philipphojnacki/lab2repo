@@ -10,6 +10,7 @@ namespace TestSolution
     {
         static void Main(string[] args)
         {
+            int x = 5;
         }
     }
 }

@@ -13,6 +13,12 @@ namespace TestSolution
             int x = 5;
             int y = 6;
         }
+
+        public int addTest(int x)
+        {
+            x = x + 5;
+            return x;
+        }
         public String getWord(String s)
         {
             return s;
